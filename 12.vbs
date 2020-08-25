@@ -1,4 +1,4 @@
-a=MsgBox ("Do you think RenZePeng Is your father?",vbYesNo+vbQuestion)
+a=MsgBox ("Do you think PengPeng3g Is your father?",vbYesNo+vbQuestion)
 If a=vbyes Then
 MsgBox ("ei,good son")
 Else
@@ -8,7 +8,7 @@ MsgBox ("ei,good son")
 Else
 MsgBox ("Your commputer Is lose.")
 for b=vbyes to 100
-MsgBox "ÏëÖ´ĞĞexit forÖ¸ÁîÂğ"
+MsgBox "ÃÃ«Ã–Â´ÃÃexit forÃ–Â¸ÃÃ®Ã‚Ã°"
 next
 End If
 end if
