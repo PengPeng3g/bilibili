@@ -1,7 +1,7 @@
 """
 Cramming Computer Virus
 Compiler:PengPeng3g
-Compile Time:8/20/2020
+Compile Time:8/29/2020
 """
 Nummber = 0
 while True:
